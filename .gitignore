@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Project-specific files
+dataset/
+face_recognition_model.h5
+face_info.csv
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Dependency directories
+site-packages/
+dist/
+build/
+*.egg-info/
+
+# Jupyter notebooks
+*.ipynb_checkpoints/
