@@ -37,3 +37,6 @@ build/
 
 # Jupyter notebooks
 *.ipynb_checkpoints/
+
+# Roll back file
+rollback.py
