@@ -22,6 +22,8 @@ Thumbs.db
 dataset/
 face_recognition_model.h5
 face_info.csv
+rollback.py
+face_recognition_system.spec
 
 # Temporary files
 *.log
@@ -37,6 +39,3 @@ build/
 
 # Jupyter notebooks
 *.ipynb_checkpoints/
-
-# Roll back file
-rollback.py

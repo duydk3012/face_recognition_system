@@ -26,11 +26,11 @@ Dự án này cung cấp một ứng dụng nhận diện khuôn mặt với cá
   - CPU/GPU: GPU tùy chọn để tăng tốc huấn luyện với TensorFlow.
 - **Thư viện Python**: Được liệt kê trong `requirements.txt`:
   - numpy==1.26.4
-  - opencv-python==4.10.0
+  - opencv-python==4.11.0.86
   - pandas==2.2.3
-  - tensorflow==2.17.0
-  - scikit-learn==1.5.2
-  - pillow==10.4.0
+  - tensorflow==2.19.0
+  - scikit-learn==1.6.1
+  - Pillow==11.1.0
 
 ## Cài đặt
 1. **Clone repository**:
